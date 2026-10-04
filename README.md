@@ -5,6 +5,7 @@ Este repositorio nos servirá para demostrar el uso de Git en la asignatura de E
 ---
 
 Los comandos del Makefile funcionarán en Linux y MacOS. En caso de usar Windows, necesitarás adaptarlos o ejecutarlos en una máquina virtual Linux.
+El Makefile trabaja sobre el archivo **paises.txt**, que contiene un listado de países del mundo.
 
 ## Ejecución
 
